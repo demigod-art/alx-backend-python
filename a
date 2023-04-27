@@ -1,0 +1,5 @@
+git add .
+
+git commit -m "This an automic commit"
+
+git push
